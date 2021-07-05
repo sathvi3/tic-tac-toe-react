@@ -1,0 +1,8 @@
+.btn {
+  background-color: whitesmoke;
+  border: 5px solid darkblue;
+  font-size: 30px;
+  font-weight: 800;
+  cursor: pointer;
+  outline: none;
+}
