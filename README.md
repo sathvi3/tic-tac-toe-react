@@ -1,4 +1,4 @@
-Deployed Link : https://cranky-dijkstra-060de2.netlify.app
+Deployed Link : https://tic-tac-toe-react-zz.netlify.app/
 
 # Getting Started with Create React App
 
